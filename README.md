@@ -3,14 +3,14 @@
 ![](juman.png)
 **welcome**,
 You will find here my repo, which includes all the summaries required for this course
-***********
+***
 ![](https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.pleasetakenotes.com%2Fabout.html&psig=AOvVaw0RYPQORCEp5VGgc2ehXCzC&ust=1613337670020000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPjGn67l5-4CFQAAAAAdAAAAABAD)
 
 
 Reading summaries
 **class number** |   **link**
 ------------     |   -------------
-read-0           | [link]()  
+read-01          | [link]()  
 read-0           | [link]()
 read-0           | [link]() 
 read-0           | [link]()  
