@@ -11,7 +11,7 @@ Reading summaries
 **class number** |   **link**
 ------------     |   ------------
 read-01          | [link](https://jumanbarham.github.io/reading-notees/class-01)  
-read-0           | [link]()
+read-0           | [link](https://jumanbarham.github.io/reading-notees/class-02)
 read-0           | [link]()
 read-0           | [link]() 
 read-0           | [link]()  
