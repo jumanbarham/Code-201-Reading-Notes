@@ -10,9 +10,9 @@ You will find here my repo, which includes all the summaries required for this c
 Reading summaries
 **class number** |   **link**
 ------------     |   ------------
-read-01          | [link](https://jumanbarham.github.io/reading-notees/class-01)  
-read-0           | [link](https://jumanbarham.github.io/reading-notees/class-02)
-read-0           | [link]()
+read-01          | [link](https://jumanbarham.github.io/reading-notees/class-01.md)  
+read-02          | [link](https://jumanbarham.github.io/reading-notees/class-02.md)
+read-03          | [link]((https://jumanbarham.github.io/reading-notees/class-03.md)
 read-0           | [link]() 
 read-0           | [link]()  
 read-0           | [link]()
