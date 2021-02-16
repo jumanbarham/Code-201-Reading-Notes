@@ -1,4 +1,4 @@
-#class3
+# class3
 
 HTML offers web authors three ways for specifying lists of information. All lists must contain one or more list elements. Lists may contain −
 
@@ -7,7 +7,7 @@ HTML offers web authors three ways for specifying lists of information. All list
 <ol> − An ordered list. This will use different schemes of numbers to list your items.
 
 <dl> − A definition list. This arranges your items in the same way as they are arranged in a dictionary.
-****
+*******
 
 HTML Unordered Lists
 An unordered list is a collection of related items that have no special order or sequence. This list is created by using HTML <ul> tag. Each item in the list is marked with a bullet.
@@ -58,7 +58,8 @@ Live Demo
    </body>
 
 </html>
-##In JavaScript,
+
+## In JavaScript,
 
  an array is a data structure that contains list of elements which store multiple values in a single variable. The strength of JavaScript arrays lies in the array methods. Array methods are functions built-in to JavaScript that we can apply to our arrays — Each method has a unique function that performs a change or calculation to our array and saves us from writing common functions from scratch.
 JavaScript Array Methods
@@ -126,7 +127,7 @@ Conclusion
 To make JavaScript array manipulation easier, we should use array methods to make our work easier and the code cleaner.
 
 ********** 
-###The CSS box model
+### The CSS box model
  describes the rectangular boxes that are generated for elements in the document tree and laid out according to the visual formatting model.
 
  **Box dimensions**
