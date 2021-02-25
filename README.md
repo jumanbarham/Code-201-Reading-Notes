@@ -25,5 +25,6 @@ read-05          | [link](https://jumanbarham.github.io/Code-201-Reading-Notes/c
 read-06          | [link](https://jumanbarham.github.io/Code-201-Reading-Notes/class-06)
 read-07          | [link](https://jumanbarham.github.io/Code-201-Reading-Notes/class-07)
 read-08          | [link](https://jumanbarham.github.io/Code-201-Reading-Notes/class-08)
-read-09          | [link]()
+read-09          | [link](https://jumanbarham.github.io/Code-201-Reading-Notes/class-09)
+read-10          | [link](https://jumanbarham.github.io/Code-201-Reading-Notes/class-10)
 
