@@ -27,4 +27,9 @@ read-07          | [link](https://jumanbarham.github.io/Code-201-Reading-Notes/c
 read-08          | [link](https://jumanbarham.github.io/Code-201-Reading-Notes/class-08)
 read-09          | [link](https://jumanbarham.github.io/Code-201-Reading-Notes/class-09)
 read-10          | [link](https://jumanbarham.github.io/Code-201-Reading-Notes/class-10)
+read-11          | [link](https://jumanbarham.github.io/Code-201-Reading-Notes/class-11)
+read-12          | [link](https://jumanbarham.github.io/Code-201-Reading-Notes/class-12)
+read-13          | [link](https://jumanbarham.github.io/Code-201-Reading-Notes/class-13)
+read-14          | [link](https://jumanbarham.github.io/Code-201-Reading-Notes/class-14)
+read-15          | [link](https://jumanbarham.github.io/Code-201-Reading-Notes/class-15)
 
