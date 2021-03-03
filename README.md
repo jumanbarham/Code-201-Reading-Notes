@@ -30,6 +30,7 @@ read-10          | [link](https://jumanbarham.github.io/Code-201-Reading-Notes/c
 read-11          | [link](https://jumanbarham.github.io/Code-201-Reading-Notes/class-11)
 read-12          | [link](https://jumanbarham.github.io/Code-201-Reading-Notes/class-12)
 read-13          | [link](https://jumanbarham.github.io/Code-201-Reading-Notes/class-13)
-read-14          | [link](https://jumanbarham.github.io/Code-201-Reading-Notes/class-14)
+read-14a         | [link](https://jumanbarham.github.io/Code-201-Reading-Notes/class-14)
+read-14b         | [link](https://jumanbarham.github.io/Code-201-Reading-Notes/class-14b)
 read-15          | [link](https://jumanbarham.github.io/Code-201-Reading-Notes/class-15)
 
